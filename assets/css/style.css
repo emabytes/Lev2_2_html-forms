@@ -1,0 +1,33 @@
+body {
+    padding-top: 50px;
+}
+
+form {
+    width: 60%;
+    margin: 0 auto;
+    font-size: 1em;
+    font-family: 'Lato', sans-serif;
+}
+
+div {
+    padding-top: 10px;
+}
+
+.btn {
+    background-color: white;
+    border: 1px solid lightgrey;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: 'Lato', sans-serif;
+}
+
+input {
+    border: 1px solid lightgrey;
+    padding: 5px;
+    outline: none;
+}
+
+legend {
+    font-size: 1.2em;
+    padding-bottom: 5px;
+}
